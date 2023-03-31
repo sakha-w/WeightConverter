@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KgToPounds</string>
+    <string name="title_kgtopounds">Kilogram To Pounds Converter</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="results">Result</string>
+    <string name="result" />
+    <string name="toPounds">To Pounds</string>
+    <string name="toKg">To Kg</string>
+    <string name="tvalue">The Value is</string>
+    <string name="enterNumber">Enter Number</string>
+    <string name="kilogramandpound">Kilogram And Pounds Converter</string>
+</resources>
